@@ -1,0 +1,3 @@
+# finalLabApp
+
+App with Firebase
