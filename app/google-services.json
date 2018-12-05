@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "463313129483",
+    "firebase_url": "https://finallabapp.firebaseio.com",
+    "project_id": "finallabapp",
+    "storage_bucket": "finallabapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463313129483:android:ee0314e43f324cd1",
+        "android_client_info": {
+          "package_name": "com.fallendeductionist.finallabapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463313129483-l50c9r0l9kftfajt9srp77nup5oahj6q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fallendeductionist.finallabapp",
+            "certificate_hash": "3a4a7cd2866f8310b9f2bf1a7b95f5467d25df75"
+          }
+        },
+        {
+          "client_id": "463313129483-orreahvmmpa6hst1kl9jem8bssva9jcu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGPbX1hCQIkOwolVcs_kYoZngoMPDDneI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "463313129483-orreahvmmpa6hst1kl9jem8bssva9jcu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
